@@ -3,7 +3,8 @@ lunch
 
 ###Can't think of what to have for lunch?
 
-This app will decide for you! It selects a random restaurant near Envato HQ (even within your preferred walking distance)
+This app will decide for you! It selects a random restaurant near Envato HQ
+(even within your preferred walking distance)
 
 
 ###Technical details
@@ -29,5 +30,10 @@ Returns ALL the restaurants within your preferred walking distance
 
 Selects a random restaurant for you withn your preferred walking distance
 
+
+##Your favourite restautant is missing?
+
+PRs are welcome. Just add it to the list of restaurants. Make sure that the
+distance is expressed in metres from Envato HQ.
 
 ###Live at: http://lunch-o-matic.herokuapp.com/
