@@ -33,7 +33,7 @@ private
   end
 
   def restaurants_within(distance)
-    restaurants.select{ |restaurant| restaurant[:distance] <= :distance.to_i }
+    restaurants.select{ |restaurant| restaurant[:distance] <= distance.to_i }
   end
 
   def restaurants
