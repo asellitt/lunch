@@ -13,19 +13,19 @@ This app will decide for you! It selects a random restaurant near Envato HQ (eve
 
 ##API
 
-**/**
+**[/](http://lunch-o-matic.herokuapp.com/)**
 
 Returns ALL the known restaurants
 
-**/random**
+**[/random](http://lunch-o-matic.herokuapp.com/random)**
 
 Selects a random restaurant for you
 
-**/within/:distance**
+**[/within/:distance](http://lunch-o-matic.herokuapp.com/within/200)**
 
 Returns ALL the restaurants within your preferred walking distance
 
-**/within/:distance/random**
+**[/within/:distance/random](http://lunch-o-matic.herokuapp.com/within/200/random)**
 
 Selects a random restaurant for you withn your preferred walking distance
 
